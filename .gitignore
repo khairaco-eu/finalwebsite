@@ -6,6 +6,6 @@ app/node_modules
 dist
 app/dist
 
-# environment
+# env
 .env
 .vercel
